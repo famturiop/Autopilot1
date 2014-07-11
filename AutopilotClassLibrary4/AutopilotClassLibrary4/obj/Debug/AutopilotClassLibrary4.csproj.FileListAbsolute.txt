@@ -1,0 +1,11 @@
+C:\Users\Всеволод\Documents\Visual Studio 2013\Projects\AutopilotClassLibrary4\AutopilotClassLibrary4\bin\Debug\AutopilotClassLibrary4.dll
+C:\Users\Всеволод\Documents\Visual Studio 2013\Projects\AutopilotClassLibrary4\AutopilotClassLibrary4\bin\Debug\AutopilotClassLibrary4.pdb
+C:\Users\Всеволод\Documents\Visual Studio 2013\Projects\AutopilotClassLibrary4\AutopilotClassLibrary4\bin\Debug\AirportClassLibrary1.dll
+C:\Users\Всеволод\Documents\Visual Studio 2013\Projects\AutopilotClassLibrary4\AutopilotClassLibrary4\bin\Debug\InterfaceClassLibrary3.dll
+C:\Users\Всеволод\Documents\Visual Studio 2013\Projects\AutopilotClassLibrary4\AutopilotClassLibrary4\bin\Debug\metClassLibrary2.dll
+C:\Users\Всеволод\Documents\Visual Studio 2013\Projects\AutopilotClassLibrary4\AutopilotClassLibrary4\bin\Debug\AirportClassLibrary1.pdb
+C:\Users\Всеволод\Documents\Visual Studio 2013\Projects\AutopilotClassLibrary4\AutopilotClassLibrary4\bin\Debug\InterfaceClassLibrary3.pdb
+C:\Users\Всеволод\Documents\Visual Studio 2013\Projects\AutopilotClassLibrary4\AutopilotClassLibrary4\bin\Debug\metClassLibrary2.pdb
+C:\Users\Всеволод\Documents\Visual Studio 2013\Projects\AutopilotClassLibrary4\AutopilotClassLibrary4\obj\Debug\AutopilotClassLibrary4.csprojResolveAssemblyReference.cache
+C:\Users\Всеволод\Documents\Visual Studio 2013\Projects\AutopilotClassLibrary4\AutopilotClassLibrary4\obj\Debug\AutopilotClassLibrary4.dll
+C:\Users\Всеволод\Documents\Visual Studio 2013\Projects\AutopilotClassLibrary4\AutopilotClassLibrary4\obj\Debug\AutopilotClassLibrary4.pdb
