@@ -1,0 +1,9 @@
+C:\Users\Всеволод\Documents\Visual Studio 2013\Projects\metClassLibrary2\metClassLibrary2\bin\Debug\metClassLibrary2.dll
+C:\Users\Всеволод\Documents\Visual Studio 2013\Projects\metClassLibrary2\metClassLibrary2\bin\Debug\metClassLibrary2.pdb
+C:\Users\Всеволод\Documents\Visual Studio 2013\Projects\metClassLibrary2\metClassLibrary2\bin\Debug\AirportClassLibrary1.dll
+C:\Users\Всеволод\Documents\Visual Studio 2013\Projects\metClassLibrary2\metClassLibrary2\bin\Debug\InterfaceClassLibrary3.dll
+C:\Users\Всеволод\Documents\Visual Studio 2013\Projects\metClassLibrary2\metClassLibrary2\bin\Debug\AirportClassLibrary1.pdb
+C:\Users\Всеволод\Documents\Visual Studio 2013\Projects\metClassLibrary2\metClassLibrary2\bin\Debug\InterfaceClassLibrary3.pdb
+C:\Users\Всеволод\Documents\Visual Studio 2013\Projects\metClassLibrary2\metClassLibrary2\obj\Debug\metClassLibrary2.csprojResolveAssemblyReference.cache
+C:\Users\Всеволод\Documents\Visual Studio 2013\Projects\metClassLibrary2\metClassLibrary2\obj\Debug\metClassLibrary2.dll
+C:\Users\Всеволод\Documents\Visual Studio 2013\Projects\metClassLibrary2\metClassLibrary2\obj\Debug\metClassLibrary2.pdb

@@ -1,0 +1,5 @@
+c:\users\всеволод\documents\visual studio 2013\Projects\AirportClassLibrary1\AirportClassLibrary1\bin\Debug\AirportClassLibrary1.dll
+c:\users\всеволод\documents\visual studio 2013\Projects\AirportClassLibrary1\AirportClassLibrary1\bin\Debug\AirportClassLibrary1.pdb
+c:\users\всеволод\documents\visual studio 2013\Projects\AirportClassLibrary1\AirportClassLibrary1\obj\Debug\AirportClassLibrary1.csprojResolveAssemblyReference.cache
+c:\users\всеволод\documents\visual studio 2013\Projects\AirportClassLibrary1\AirportClassLibrary1\obj\Debug\AirportClassLibrary1.dll
+c:\users\всеволод\documents\visual studio 2013\Projects\AirportClassLibrary1\AirportClassLibrary1\obj\Debug\AirportClassLibrary1.pdb
