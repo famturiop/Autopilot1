@@ -40,7 +40,7 @@ namespace AutopilotClassLibrary4
 
     public class newmet : met
     {
-        public static airportrefit newplane = new airportrefit();
+        public static airportrefit newplane = new airportrefit();  // создание нового обьекта с доп св-вами времени и дальности полета
         static public void print_menu1()  //  нельзя переопределить метод print_menu, поскольку он статич.
         {
             Console.WriteLine("Введите команду \n 1 - запуск двиг., \n 2 - остановка двиг., \n 3 - заправка, \n 4 - увелич. скорость, \n 5 - уменьшить скорость, \n 6 - увелич. высоту, \n 7 - уменьш. высоту. \n 8 - вызвать автопилот");
